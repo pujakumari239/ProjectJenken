@@ -6,5 +6,7 @@ public class main
         System.out.print("this is java progem:");
         System.out.print("output from java program:");
         System.out.print( new Date());
+        System.out.print( "hello");
+
     }
 }
