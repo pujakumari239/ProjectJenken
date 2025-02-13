@@ -7,6 +7,8 @@ public class main
         System.out.println("output from java program:");
         System.out.println( new Date());
         System.out.println("hello jenkion");
+        Student s1 = new Student();
+        s1.say();
 
     }
 }
